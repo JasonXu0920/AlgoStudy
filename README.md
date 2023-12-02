@@ -1,0 +1,3 @@
+# AlgoStudy
+
+Different search algorithms
