@@ -1,0 +1,4 @@
+"E:\CL\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/minGW/mingw32/bin/mingw32-make.exe -DCMAKE_C_COMPILER=E:/minGW/mingw32/bin/i686-w64-mingw32-gcc-8.1.0.exe -G "CodeBlocks - MinGW Makefiles" "E:\download\9024 -T0"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/download/9024 -T0/cmake-build-debug

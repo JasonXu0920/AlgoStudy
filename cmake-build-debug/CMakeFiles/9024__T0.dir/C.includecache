@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/download/9024 -T0/q1-files/BSTree.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+BSTree.h
+E:/download/9024 -T0/q1-files/BSTree.h
+
+E:/download/9024 -T0/q1-files/BSTree.h
+stdbool.h
+-
+
+E:/download/9024 -T0/q1-files/nodesNotBalanced.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+BSTree.h
+E:/download/9024 -T0/q1-files/BSTree.h
+
+E:/download/9024 -T0/q1-files/testNodesNotBalanced.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+BSTree.h
+E:/download/9024 -T0/q1-files/BSTree.h
+
